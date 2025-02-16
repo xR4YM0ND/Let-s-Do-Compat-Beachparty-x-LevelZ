@@ -10,9 +10,9 @@ place the datapack in `saves/yourworld/datapacks` or use mods like [Paxi](https:
 ## Credits
 <a href="https://discord.gg/2peBqWRwVp" target="_blank">
 <img alt="Discord Globox_Hood" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
-<a href="https://github.com/xR4YM0ND/NutritionZ/blob/1.21/LICENSE" target="_blank">
+<a href="https://github.com/xR4YM0ND/Let-s-Do-Compat-Beachparty-x-LevelZ/blob/1.20.1/LICENSE" target="_blank">
 <img alt="GitHub License" src="https://img.shields.io/github/license/xR4YM0ND/NutritionZ?style=for-the-badge"></a>
-<a href="https://github.com/xR4YM0ND/NutritionZ" target="_blank">
+<a href="https://github.com/xR4YM0ND/Let-s-Do-Compat-Beachparty-x-LevelZ" target="_blank">
 <img alt="GitHub Source Code" src="https://img.shields.io/badge/Github-Source_Code-lightgrey?style=for-the-badge"></a>
 <p></p>
 <a href="https://modrinth.com/user/xR4YM0ND" target="_blank">
