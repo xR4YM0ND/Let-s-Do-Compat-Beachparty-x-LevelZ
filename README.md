@@ -1,11 +1,11 @@
+<center>
+
 # [Let's Do Compat] Beachparty x LevelZ
 
-this datapack brings parity with lets do beachparty and levelz
+this datapack brings parity with [lets do beachparty](https://modrinth.com/mod/lets-do-beachparty) and [levelz](https://modrinth.com/mod/levelz)
 
 ## Installation
 place the datapack in `saves/yourworld/datapacks` or use mods like [Paxi](https://modrinth.com/mod/paxi) or [Global Packs](https://modrinth.com/mod/globalpacks).
-
-<center>
 
 ## Credits
 <a href="https://discord.gg/2peBqWRwVp" target="_blank">
